@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
-
+@media screen and (min-width: 992px) {
 :root{
     --green:#3D3D3D;
     --dark-color:#219150;
@@ -544,3 +544,4 @@ img{
     width: 25px;
     background-color: #eee;
   }
+}
