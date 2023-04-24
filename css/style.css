@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
-@media screen and (min-width: 992px) {
+
 :root{
     --green:#3D3D3D;
     --dark-color:#219150;
@@ -119,13 +119,7 @@ section{
   display: block;
 }
   
-  @media screen and (min-width:420px) and (max-width:1200px) {
-    .topnav a:not(:first-child) {display: none;}
-    .topnav a.icon {
-      float: right;
-      display: block;
-    }
-  }
+  
   
   @media screen and (min-width:420px) and (max-width:1200px)  {
     .topnav.responsive {position: relative;}
@@ -544,4 +538,3 @@ img{
     width: 25px;
     background-color: #eee;
   }
-}
