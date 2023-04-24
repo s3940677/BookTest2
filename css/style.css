@@ -121,19 +121,7 @@ section{
   
   
   
-  @media screen and (min-width:420px) and (max-width:1200px)  {
-    .topnav.responsive {position: relative;}
-    .topnav.responsive .icon {
-      position: absolute;
-      right: 0;
-      top: 0;
-    }
-    .topnav.responsive a {
-      float: none;
-      display: block;
-      text-align: left;
-    }
-  }
+
 
 .btn{
     margin-top: 16px;
